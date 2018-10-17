@@ -85,7 +85,7 @@ This module provides a simple, yet needed extension of the UniFi Controller API.
 * There are also a few functions that seem to have been broken/made unavailable in the version of the UniFi Controller I operate (my setup isn't that old, I've only tested the 5.8.x line)
 
 ## License
-GNU GPLv3
+[GNU GPLv3](LICENSE.md)
 
 ## Credits
 * Based off of this project, so many thanks to the {wo}men who provided the groundwork https://github.com/Art-of-WiFi/UniFi-API-client/
