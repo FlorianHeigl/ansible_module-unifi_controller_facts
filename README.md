@@ -90,3 +90,4 @@ GNU GPLv3
 ## Credits
 * Based off of this project, so many thanks to the {wo}men who provided the groundwork https://github.com/Art-of-WiFi/UniFi-API-client/
 * Ansible module was based off this starting point: https://blog.toast38coza.me/custom-ansible-module-hello-world/
+* [https://github.com/kenmoini/ansible_modules](https://github.com/kenmoini/ansible_modules)
